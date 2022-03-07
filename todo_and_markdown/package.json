@@ -9,7 +9,8 @@
   "dependencies": {
     "vue": "^3.2.31",
     "marked": "latest",
-    "lodash-es": "latest"
+    "lodash-es": "latest",
+    "vue-router": "latest"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.2",
